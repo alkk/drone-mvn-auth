@@ -1,7 +1,4 @@
 # drone-mvn-auth
-[![Build Status](https://travis-ci.org/robertstettner/drone-mvn-auth.svg?branch=master)](https://travis-ci.org/robertstettner/drone-mvn-auth)
-[![Coverage Status](https://coveralls.io/repos/github/robertstettner/drone-mvn-auth/badge.svg?branch=master)](https://coveralls.io/github/robertstettner/drone-mvn-auth?branch=master)
-
 Drone plugin for generating the `settings.xml` with the server authentication for a Maven repository.
 
 Please note that dependencies are saved in the `.m2` directory.
